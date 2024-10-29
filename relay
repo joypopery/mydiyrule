@@ -53,7 +53,7 @@ custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择
 custom_proxy_group=🚅 自建节点`select`(自建节点)
 custom_proxy_group=⭕️ 自动选择转发`relay`[]✈️ 机场节点`[]🚅 自建节点
 custom_proxy_group=🔯 故障转移转发`relay`[]🔯 故障转移`[]🚅 自建节点
-custom_proxy_group=🚀 手动切换转发`relay`[]🚀 手动切换[]🚅 自建节点
+custom_proxy_group=🚀 手动切换转发`relay`[]🚀 手动切换`[]🚅 自建节点
 
 
 ;设置分组标志位
